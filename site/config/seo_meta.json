@@ -1,10 +1,10 @@
 {
   "title": "Storefront | Powered by Commerce",
   "titleTemplate": "%s - Storefront",
-  "description": "MaliekCommerce - https://www.adball.tech",
+  "description": "Maliek Commerce - https://www.adball.tech",
   "openGraph": {
     "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.adball.tech",
+    "description": "Maliek Commerce - https://www.adball.tech",
     "type": "website",
     "url": "https://adball.tech",
     "site_name": "Maliek Commerce",
