@@ -1,13 +1,13 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Storefront | Powered by Commerce",
+  "titleTemplate": "%s - Storefront",
+  "description": "MaliekCommerce - https://www.adball.tech",
   "openGraph": {
     "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "description": "Next.js Commerce - https://www.adball.tech",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "https://adball.tech",
+    "site_name": "Maliek Commerce",
     "images": [
       {
         "url": "/card.png",
